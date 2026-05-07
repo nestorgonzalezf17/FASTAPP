@@ -1,0 +1,264 @@
+{
+    "FASTRACK": {
+        "CONTABILIDAD": {
+            "ANALISTA CONTABLE": [],
+            "ANALISTA CONTABLE Y DE NOMINA": [],
+            "ANALISTA DE LEGALIZACIONES": [],
+            "ASISTENTE DE FACTURACION": [],
+            "AUXILIAR DE ARCHIVO": [],
+            "AUXILIAR DE LEGALIZACIONES": [],
+            "PROFESIONAL CONTABLE": []
+        },
+        "GERENCIA": {
+            "COORDINADOR NOMINA": [],
+            "DIRECTOR DE RECURSOS HUMANOS": [],
+            "GERENTE GENERAL": []
+        },
+        "HSEQ": {
+            "ANALISTA HSEQ": [],
+            "ASISTENTE HSEQ": [],
+            "PROFESIONAL HSEQ": []
+        },
+        "INFRAESTRUCTURA": {
+            "ASISTENTE DE PATIO": [],
+            "AUXILIAR DE PATIO": []
+        },
+        "MANTENIMIENTO": {
+            "AIROLOGO": [],
+            "ANALISTA DE ALMACEN": [],
+            "ANALISTA DE MANTENIMIENTO": [],
+            "ANALISTA II DE DATOS": [],
+            "ARMADOR": [],
+            "AUXILIAR AIROLOGO": [],
+            "AUXILIAR DE ALMACEN": [],
+            "AUXILIAR DE COMPRAS": [],
+            "AUXILIAR DE MOTORES": [],
+            "AUXILIAR DE PINTURA": [],
+            "AUXILIAR DE SUSPENCION": [],
+            "AUXILIAR DE TRANSMISIONES": [],
+            "CONDUCTOR DE PATIO": [],
+            "COORDINADOR DE ALMACEN Y COMPRAS": [],
+            "DIGITADOR DE MANTENIMIENTO": [],
+            "ELECTRICISTA": [],
+            "ELECTRICO": [],
+            "ELECTRICO AUTOMOTRIZ": [],
+            "INGENIERO MECANICO": [],
+            "INSPECTOR": [],
+            "INSPECTOR DE LLANTAS": [],
+            "INSPECTOR DE TRACTOCAMIONES": [],
+            "ISLERO": [],
+            "JEFE COMPRAS": [],
+            "JEFE DE PATIO": [],
+            "JEFE DE TALLER": [],
+            "LATONERO": [],
+            "LUBRICADOR": [],
+            "MECANICO": [],
+            "MECANICO DE CAJAS Y DIFERENCIALES": [],
+            "MECANICO DE MOTORES": [],
+            "MECANICO DE SUSPENSION": [],
+            "MECANICO SUSPENSIÓN": [],
+            "MENSAJERO": [],
+            "PINTOR": [],
+            "PINTOR AUTOMOTRIZ": [],
+            "SOLDADOR": [],
+            "SUPERVISOR DE DISPONIBILIDAD": [],
+            "TECNICO AIROLOGO": [],
+            "TECNICO DE LLANTAS": [],
+            "TECNICO DE SUSPENSION": [],
+            "TECNICO EN LLANTAS": []
+        },
+        "NOMINA": {
+            "ANALISTA DE NOMINA": [],
+            "ASISTENTE DE NOMINA Y ASUNTOS LEGALES": []
+        },
+        "OPERACIONES": {
+            "ANALISTA DOCUMENTAL": [],
+            "ANALISTA I LOGISTICO": [],
+            "ANALISTA II LOGISTICO": [],
+            "ANALISTA LOGISTICO": [],
+            "ANALISTA LOGÍSTICO": [],
+            "ASISTENTE DE DESPACHOS": [],
+            "ASISTENTE DE OPERACIONES": [],
+            "ASISTENTE DE OPERACIONES REGIONAL": [],
+            "AUXILIAR LOGISTICO": [],
+            "CONDUCTOR TRACTOCAMION": [],
+            "CONDUCTOR URBANERO": [],
+            "LIDER DE OPERACIONES": []
+        },
+        "PROCESOS": {
+            "ANALISTA DE PROCESOS": [],
+            "ASISTENTE ADMINISTRATIVO": [],
+            "AUXILIAR ADMINISTRATIVO": []
+        },
+        "SERVICIO AL CLIENTE": {
+            "ANALISTA DE SERVICIO AL CLIENTE": [],
+            "ANALISTA I SERVICIO AL CLIENTE": [],
+            "AUXILIAR ADMINISTRATIVO": [],
+            "AUXILIAR DE DESPACHOS REGIONAL": [],
+            "AUXILIAR DE SERVICIO AL CLIENTE": [],
+            "CORDINADORA DE OPERACIONES": [],
+            "OPERADOR DE TRAFICO PORTUARIO": [],
+            "SUPERVISOR DE DESCARGUE": []
+        },
+        "SISTEMAS": {
+            "INGENIERO DE DESARROLLO": [],
+            "INGENIERO DE SOPORTE": []
+        },
+        "TALENTO HUMANO": {
+            "ANALISTA DE TALENTO HUMANO": [],
+            "ASISTENTE DE TALENTO HUMANO": [],
+            "AUXILIAR ADMINISTRATIVO": [],
+            "AUXILIAR DE SERVICIOS GENERALES": [],
+            "AUXILIAR DE TALENTO HUMANO": [],
+            "CONDUCTOR EVALUADOR": [],
+            "MENSAJERO": [],
+            "PROFESIONAL DE TALENTO HUMANO": [],
+            "RECEPCIONISTA": []
+        },
+        "TESORERIA": {
+            "AUXILIAR DE TESORERIA": []
+        },
+        "TRAFICO": {
+            "ACOMPAÑANTE MOTORIZADO": [],
+            "ANALISTA DE TRAFICO": [],
+            "ANALISTA DE TRAFICO Y SEGURIDAD": [],
+            "ANALISTA I VIAL HSEQ": [],
+            "ANALISTA II DE TRAFICO Y SEGURIDAD": [],
+            "AUXILIAR DE SEGURIDAD": [],
+            "CONTROLADOR DE TRAFICO": []
+        }
+    },
+    "GEZPMOTOR": {
+        "CONTABILIDAD": {
+            "AUXILIAR CONTABLE": []
+        },
+        "GERENCIA": {
+            "COORDINADOR POST VENTA": [],
+            "GERENTE DE MERCADEO Y VENTAS": [],
+            "GERENTE DE VENTAS REGIONAL": []
+        },
+        "GERENCIA COMERCIAL": {
+            "ANALISTA AUTOMATIZACIÓN IA": [],
+            "ANALISTA DE OPERACIONES REGIONALES": [],
+            "ASESOR COMERCIAL": [],
+            "ASESOR COMERCIAL JUNIOR": [],
+            "COORDINADOR COMERCIAL": []
+        },
+        "MANTENIMIENTO": {
+            "AUXILIAR DE PATIO": []
+        }
+    },
+    "GEZPORT": {
+        "CONTABILIDAD": {
+            "ANALISTA CONTABLE": [],
+            "AUXILIAR CONTABLE": [],
+            "JEFE DE CONTABILIDIDAD": []
+        },
+        "DIRECCION POST VENTA": {
+            "ANALISTA ADMINISTRATIVO": [],
+            "ANALISTA DE SERVICIO": [],
+            "ANALISTA POST VENTA": [],
+            "ASISTENTE ADMINISTRATIVA": [],
+            "ASISTENTE ADMINISTRATIVO": [],
+            "CONDUCTOR DE PATIO": [],
+            "MENSAJERO C2": []
+        },
+        "GERENCIA COMERCIAL": {
+            "ANALISTA POST VENTA": []
+        },
+        "MANTENIMIENTO": {
+            "ASISTENTE ADMINISTRATIVO": [],
+            "AUXILIAR DE ALMACEN": [],
+            "AUXILIAR DE LAVADO": [],
+            "AUXILIAR DE SERVICIOS GENERALES": [],
+            "AUXILIAR LOGISTICO": [],
+            "DIRECTOR DE SERVICIO SHACMAN": [],
+            "JEFE DE PATIO": [],
+            "JEFE DE TALLER": []
+        },
+        "TRAFICO": {
+            "AUXILIAR DE SEGURIDAD": []
+        }
+    },
+    "ICEBERG": {
+        "CONTABILIDAD": {
+            "ANALISTA DE IMPUESTOS": [],
+            "ANALISTA II DE FACTURACION": []
+        },
+        "GERENCIA": {
+            "ASESOR COMERCIAL": [],
+            "COORDINADOR HSEQ": []
+        },
+        "DIRECTOR COMERCIAL": {
+            "DIRECTOR DE FLOTA": [],
+            "DIRECTOR DE MANTENIMIENTO": [],
+            "DIRECTOR DE TRAFICO Y SEGURIDAD": [],
+            "DIRECTOR SISTEMAS": [],
+            "DIRECTORA CONTABILIDAD": [],
+            "DIRECTORA FINANCIERA": [],
+            "DIRECTORA LOGISTICA Y SERVICIO AL CLIENTE": [],
+            "GERENTE ADMINISTRATIVA Y DE PROCESOS": [],
+            "GERENTE COMERCIAL": [],
+            "GERENTE GENERAL": [],
+            "GERENTE OPERACIONAL": [],
+            "JEFE COMPRAS": [],
+            "JEFE DE OPERACIONES": [],
+            "MENSAJERO": []
+        },
+        "MANTENIMIENTO": {
+            "AUXILIAR DE PATIO": [],
+            "COORDINADOR LLANTAS": [],
+            "COORINADORA DE ALMACEN": [],
+            "JEFE DE PATIO": [],
+            "MENSAJERO": []
+        },
+        "OPERACIONES": {
+            "ANALISTA II LOGISTICO": [],
+            "ASISTENTE DE OPERACIONES REGIONALES": []
+        },
+        "PROCESO": {
+            "ASISTENTE CICLOS": []
+        },
+        "SERVICIO AL CLIENTE": {
+            "ANALISTA II DE SERVICIO AL CLIENTE": [],
+            "COORDINADORA REGIONAL": []
+        },
+        "TRAFICO": {
+            "ANALISTA II DE TRAFICO Y SEGURIDAD": []
+        },
+        "(en blanco)": {
+            "APRENDIZ SENA (LECTIVA)": []
+        }
+    },
+    "WESTLAKE": {
+        "CONTABILIDAD": {
+            "ANALISTA CONTABLE": [],
+            "ASISTENTE CONTABLE": [],
+            "AUXILIAR DE FACTURACION": [],
+            "AUXILIAR FACTURACION": [],
+            "LIDER CONTABLE": []
+        },
+        "COORDINADORA DE MARKETING DIGITAL": {
+            "COMMUNITY MANAGER": []
+        },
+        "DIRECTOR COMERCIAL": {
+            "ASESOR COMERCIAL": [],
+            "AUXILIAR COMERCIAL JUNIOR": [],
+            "TECNICO DE LLANTAS": []
+        },
+        "GERENCIA": {
+            "COORDINADOR CONTABLE": []
+        },
+        "MANTENIMIENTO": {
+            "CONDUCTOR DE PATIO": []
+        }
+    },
+    "WLC": {
+        "DIRECTORA DE OPERACIONES": {
+            "ANALISTA ADMINISTRATIVO": [],
+            "AUXILIAR DE BODEGA": [],
+            "COORDINADOR DE OPERACIONES": [],
+            "MONTACARGUISTA": []
+        }
+    }
+}

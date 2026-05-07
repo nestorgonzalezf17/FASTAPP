@@ -1,0 +1,1506 @@
+﻿[
+  {
+    "IdCargo": 1,
+    "Nombre": "ANALISTA CONTABLE",
+    "IdArea": 1,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 2,
+    "Nombre": "ANALISTA CONTABLE Y DE NOMINA",
+    "IdArea": 1,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 3,
+    "Nombre": "ANALISTA DE LEGALIZACIONES",
+    "IdArea": 1,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 4,
+    "Nombre": "ASISTENTE DE FACTURACION",
+    "IdArea": 1,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 5,
+    "Nombre": "AUXILIAR DE ARCHIVO",
+    "IdArea": 1,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 6,
+    "Nombre": "AUXILIAR DE LEGALIZACIONES",
+    "IdArea": 1,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 7,
+    "Nombre": "PROFESIONAL CONTABLE",
+    "IdArea": 1,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 8,
+    "Nombre": "COORDINADOR NOMINA",
+    "IdArea": 2,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 9,
+    "Nombre": "DIRECTOR DE RECURSOS HUMANOS",
+    "IdArea": 2,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 10,
+    "Nombre": "GERENTE GENERAL",
+    "IdArea": 2,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 11,
+    "Nombre": "ANALISTA HSEQ",
+    "IdArea": 3,
+    "NombreArea": "HSEQ",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 12,
+    "Nombre": "ASISTENTE HSEQ",
+    "IdArea": 3,
+    "NombreArea": "HSEQ",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 13,
+    "Nombre": "PROFESIONAL HSEQ",
+    "IdArea": 3,
+    "NombreArea": "HSEQ",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 14,
+    "Nombre": "ASISTENTE DE PATIO",
+    "IdArea": 4,
+    "NombreArea": "INFRAESTRUCTURA",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 15,
+    "Nombre": "AUXILIAR DE PATIO",
+    "IdArea": 4,
+    "NombreArea": "INFRAESTRUCTURA",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 16,
+    "Nombre": "AIROLOGO",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 17,
+    "Nombre": "ANALISTA DE ALMACEN",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 18,
+    "Nombre": "ANALISTA DE MANTENIMIENTO",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 19,
+    "Nombre": "ANALISTA II DE DATOS",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 20,
+    "Nombre": "ARMADOR",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 21,
+    "Nombre": "AUXILIAR AIROLOGO",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 22,
+    "Nombre": "AUXILIAR DE ALMACEN",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 23,
+    "Nombre": "AUXILIAR DE COMPRAS",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 24,
+    "Nombre": "AUXILIAR DE MOTORES",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 25,
+    "Nombre": "AUXILIAR DE PINTURA",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 26,
+    "Nombre": "AUXILIAR DE SUSPENCION",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 27,
+    "Nombre": "AUXILIAR DE TRANSMISIONES",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 28,
+    "Nombre": "CONDUCTOR DE PATIO",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 29,
+    "Nombre": "COORDINADOR DE ALMACEN Y COMPRAS",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 30,
+    "Nombre": "DIGITADOR DE MANTENIMIENTO",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 31,
+    "Nombre": "ELECTRICISTA",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 32,
+    "Nombre": "ELECTRICO",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 33,
+    "Nombre": "ELECTRICO AUTOMOTRIZ",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 34,
+    "Nombre": "INGENIERO MECANICO",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 35,
+    "Nombre": "INSPECTOR",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 36,
+    "Nombre": "INSPECTOR DE LLANTAS",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 37,
+    "Nombre": "INSPECTOR DE TRACTOCAMIONES",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 38,
+    "Nombre": "ISLERO",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 39,
+    "Nombre": "JEFE COMPRAS",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 40,
+    "Nombre": "JEFE DE PATIO",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 41,
+    "Nombre": "JEFE DE TALLER",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 42,
+    "Nombre": "LATONERO",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 43,
+    "Nombre": "LUBRICADOR",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 44,
+    "Nombre": "MECANICO",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 45,
+    "Nombre": "MECANICO DE CAJAS Y DIFERENCIALES",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 46,
+    "Nombre": "MECANICO DE MOTORES",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 47,
+    "Nombre": "MECANICO DE SUSPENSION",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 48,
+    "Nombre": "MECANICO SUSPENSIÓN",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 49,
+    "Nombre": "MENSAJERO",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 50,
+    "Nombre": "PINTOR",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 51,
+    "Nombre": "PINTOR AUTOMOTRIZ",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 52,
+    "Nombre": "SOLDADOR",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 53,
+    "Nombre": "SUPERVISOR DE DISPONIBILIDAD",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 54,
+    "Nombre": "TECNICO AIROLOGO",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 55,
+    "Nombre": "TECNICO DE LLANTAS",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 56,
+    "Nombre": "TECNICO DE SUSPENSION",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 57,
+    "Nombre": "TECNICO EN LLANTAS",
+    "IdArea": 5,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 58,
+    "Nombre": "ANALISTA DE NOMINA",
+    "IdArea": 6,
+    "NombreArea": "NOMINA",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 59,
+    "Nombre": "ASISTENTE DE NOMINA Y ASUNTOS LEGALES",
+    "IdArea": 6,
+    "NombreArea": "NOMINA",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 60,
+    "Nombre": "ANALISTA DOCUMENTAL",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 61,
+    "Nombre": "ANALISTA I LOGISTICO",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 62,
+    "Nombre": "ANALISTA II LOGISTICO",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 63,
+    "Nombre": "ANALISTA LOGÍSTICO",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 64,
+    "Nombre": "ASISTENTE DE DESPACHOS",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 65,
+    "Nombre": "ASISTENTE DE OPERACIONES",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 66,
+    "Nombre": "ASISTENTE DE OPERACIONES REGIONAL",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 67,
+    "Nombre": "AUXILIAR LOGISTICO",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 184,
+    "Nombre": "CONDUCTOR  EVALUADOR",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 183,
+    "Nombre": "CONDUCTOR CARGA LIQUIDA",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 180,
+    "Nombre": "CONDUCTOR CARGA SECA",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 181,
+    "Nombre": "CONDUCTOR DE PATIO",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 68,
+    "Nombre": "CONDUCTOR DE TRACTO CAMION",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 182,
+    "Nombre": "CONDUCTOR INSTRUCTOR",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 69,
+    "Nombre": "CONDUCTOR TRACTOCAMION",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 70,
+    "Nombre": "CONDUCTOR URBANERO",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 71,
+    "Nombre": "LIDER DE OPERACIONES",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 185,
+    "Nombre": "Tecnico de Mantenimiento",
+    "IdArea": 7,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 72,
+    "Nombre": "ANALISTA DE PROCESOS",
+    "IdArea": 8,
+    "NombreArea": "PROCESOS",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 73,
+    "Nombre": "ASISTENTE ADMINISTRATIVO",
+    "IdArea": 8,
+    "NombreArea": "PROCESOS",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 74,
+    "Nombre": "AUXILIAR ADMINISTRATIVO",
+    "IdArea": 8,
+    "NombreArea": "PROCESOS",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 75,
+    "Nombre": "ANALISTA DE SERVICIO AL CLIENTE",
+    "IdArea": 9,
+    "NombreArea": "SERVICIO AL CLIENTE",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 76,
+    "Nombre": "ANALISTA I SERVICIO AL CLIENTE",
+    "IdArea": 9,
+    "NombreArea": "SERVICIO AL CLIENTE",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 77,
+    "Nombre": "AUXILIAR ADMINISTRATIVO",
+    "IdArea": 9,
+    "NombreArea": "SERVICIO AL CLIENTE",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 78,
+    "Nombre": "AUXILIAR DE DESPACHOS REGIONAL",
+    "IdArea": 9,
+    "NombreArea": "SERVICIO AL CLIENTE",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 79,
+    "Nombre": "AUXILIAR DE SERVICIO AL CLIENTE",
+    "IdArea": 9,
+    "NombreArea": "SERVICIO AL CLIENTE",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 80,
+    "Nombre": "CORDINADORA DE OPERACIONES",
+    "IdArea": 9,
+    "NombreArea": "SERVICIO AL CLIENTE",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 81,
+    "Nombre": "OPERADOR DE TRAFICO PORTUARIO",
+    "IdArea": 9,
+    "NombreArea": "SERVICIO AL CLIENTE",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 82,
+    "Nombre": "SUPERVISOR DE DESCARGUE",
+    "IdArea": 9,
+    "NombreArea": "SERVICIO AL CLIENTE",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 83,
+    "Nombre": "INGENIERO DE DESARROLLO",
+    "IdArea": 10,
+    "NombreArea": "SISTEMAS",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 84,
+    "Nombre": "INGENIERO DE SOPORTE",
+    "IdArea": 10,
+    "NombreArea": "SISTEMAS",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 85,
+    "Nombre": "ANALISTA DE TALENTO HUMANO",
+    "IdArea": 11,
+    "NombreArea": "TALENTO HUMANO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 86,
+    "Nombre": "ASISTENTE DE TALENTO HUMANO",
+    "IdArea": 11,
+    "NombreArea": "TALENTO HUMANO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 87,
+    "Nombre": "AUXILIAR ADMINISTRATIVO",
+    "IdArea": 11,
+    "NombreArea": "TALENTO HUMANO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 88,
+    "Nombre": "AUXILIAR DE SERVICIOS GENERALES",
+    "IdArea": 11,
+    "NombreArea": "TALENTO HUMANO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 89,
+    "Nombre": "AUXILIAR DE TALENTO HUMANO",
+    "IdArea": 11,
+    "NombreArea": "TALENTO HUMANO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 90,
+    "Nombre": "CONDUCTOR EVALUADOR",
+    "IdArea": 11,
+    "NombreArea": "TALENTO HUMANO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 91,
+    "Nombre": "MENSAJERO",
+    "IdArea": 11,
+    "NombreArea": "TALENTO HUMANO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 92,
+    "Nombre": "PROFESIONAL DE TALENTO HUMANO",
+    "IdArea": 11,
+    "NombreArea": "TALENTO HUMANO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 93,
+    "Nombre": "RECEPCIONISTA",
+    "IdArea": 11,
+    "NombreArea": "TALENTO HUMANO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 94,
+    "Nombre": "AUXILIAR DE TESORERIA",
+    "IdArea": 12,
+    "NombreArea": "TESORERIA",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 95,
+    "Nombre": "ACOMPAÑANTE MOTORIZADO",
+    "IdArea": 13,
+    "NombreArea": "TRAFICO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 96,
+    "Nombre": "ANALISTA DE TRAFICO",
+    "IdArea": 13,
+    "NombreArea": "TRAFICO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 97,
+    "Nombre": "ANALISTA DE TRAFICO Y SEGURIDAD",
+    "IdArea": 13,
+    "NombreArea": "TRAFICO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 98,
+    "Nombre": "ANALISTA I VIAL HSEQ",
+    "IdArea": 13,
+    "NombreArea": "TRAFICO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 99,
+    "Nombre": "ANALISTA II DE TRAFICO Y SEGURIDAD",
+    "IdArea": 13,
+    "NombreArea": "TRAFICO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 100,
+    "Nombre": "AUXILIAR DE SEGURIDAD",
+    "IdArea": 13,
+    "NombreArea": "TRAFICO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 101,
+    "Nombre": "CONTROLADOR DE TRAFICO",
+    "IdArea": 13,
+    "NombreArea": "TRAFICO",
+    "IdEmpresa": 1,
+    "NombreEmpresa": "FASTRACK"
+  },
+  {
+    "IdCargo": 102,
+    "Nombre": "AUXILIAR CONTABLE",
+    "IdArea": 14,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 2,
+    "NombreEmpresa": "GEZPOMOTOR"
+  },
+  {
+    "IdCargo": 103,
+    "Nombre": "COORDINADOR POST VENTA",
+    "IdArea": 15,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 2,
+    "NombreEmpresa": "GEZPOMOTOR"
+  },
+  {
+    "IdCargo": 104,
+    "Nombre": "GERENTE DE MERCADEO Y VENTAS",
+    "IdArea": 15,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 2,
+    "NombreEmpresa": "GEZPOMOTOR"
+  },
+  {
+    "IdCargo": 105,
+    "Nombre": "GERENTE DE VENTAS REGIONAL",
+    "IdArea": 15,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 2,
+    "NombreEmpresa": "GEZPOMOTOR"
+  },
+  {
+    "IdCargo": 106,
+    "Nombre": "ANALISTA AUTOMATIZACIÓN IA",
+    "IdArea": 16,
+    "NombreArea": "GERENCIA COMERCIAL",
+    "IdEmpresa": 2,
+    "NombreEmpresa": "GEZPOMOTOR"
+  },
+  {
+    "IdCargo": 107,
+    "Nombre": "ANALISTA DE OPERACIONES REGIONALES",
+    "IdArea": 16,
+    "NombreArea": "GERENCIA COMERCIAL",
+    "IdEmpresa": 2,
+    "NombreEmpresa": "GEZPOMOTOR"
+  },
+  {
+    "IdCargo": 108,
+    "Nombre": "ASESOR COMERCIAL",
+    "IdArea": 16,
+    "NombreArea": "GERENCIA COMERCIAL",
+    "IdEmpresa": 2,
+    "NombreEmpresa": "GEZPOMOTOR"
+  },
+  {
+    "IdCargo": 109,
+    "Nombre": "ASESOR COMERCIAL JUNIOR",
+    "IdArea": 16,
+    "NombreArea": "GERENCIA COMERCIAL",
+    "IdEmpresa": 2,
+    "NombreEmpresa": "GEZPOMOTOR"
+  },
+  {
+    "IdCargo": 110,
+    "Nombre": "COORDINADOR COMERCIAL",
+    "IdArea": 16,
+    "NombreArea": "GERENCIA COMERCIAL",
+    "IdEmpresa": 2,
+    "NombreEmpresa": "GEZPOMOTOR"
+  },
+  {
+    "IdCargo": 111,
+    "Nombre": "AUXILIAR DE PATIO",
+    "IdArea": 17,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 2,
+    "NombreEmpresa": "GEZPOMOTOR"
+  },
+  {
+    "IdCargo": 112,
+    "Nombre": "ANALISTA CONTABLE",
+    "IdArea": 18,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 113,
+    "Nombre": "AUXILIAR CONTABLE",
+    "IdArea": 18,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 114,
+    "Nombre": "JEFE DE CONTABILIDIDAD",
+    "IdArea": 18,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 115,
+    "Nombre": "ANALISTA ADMINISTRATIVO",
+    "IdArea": 19,
+    "NombreArea": "DIRECCION POST VENTA",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 116,
+    "Nombre": "ANALISTA DE SERVICIO",
+    "IdArea": 19,
+    "NombreArea": "DIRECCION POST VENTA",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 117,
+    "Nombre": "ANALISTA POST VENTA",
+    "IdArea": 19,
+    "NombreArea": "DIRECCION POST VENTA",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 118,
+    "Nombre": "ASISTENTE ADMINISTRATIVA",
+    "IdArea": 19,
+    "NombreArea": "DIRECCION POST VENTA",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 119,
+    "Nombre": "ASISTENTE ADMINISTRATIVO",
+    "IdArea": 19,
+    "NombreArea": "DIRECCION POST VENTA",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 120,
+    "Nombre": "CONDUCTOR DE PATIO",
+    "IdArea": 19,
+    "NombreArea": "DIRECCION POST VENTA",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 121,
+    "Nombre": "MENSAJERO C2",
+    "IdArea": 19,
+    "NombreArea": "DIRECCION POST VENTA",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 122,
+    "Nombre": "ANALISTA POST VENTA",
+    "IdArea": 20,
+    "NombreArea": "GERENCIA COMERCIAL",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 123,
+    "Nombre": "ASISTENTE ADMINISTRATIVO",
+    "IdArea": 21,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 124,
+    "Nombre": "AUXILIAR DE ALMACEN",
+    "IdArea": 21,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 125,
+    "Nombre": "AUXILIAR DE LAVADO",
+    "IdArea": 21,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 126,
+    "Nombre": "AUXILIAR DE SERVICIOS GENERALES",
+    "IdArea": 21,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 127,
+    "Nombre": "AUXILIAR LOGISTICO",
+    "IdArea": 21,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 128,
+    "Nombre": "DIRECTOR DE SERVICIO SHACMAN",
+    "IdArea": 21,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 129,
+    "Nombre": "JEFE DE PATIO",
+    "IdArea": 21,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 130,
+    "Nombre": "JEFE DE TALLER",
+    "IdArea": 21,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 131,
+    "Nombre": "AUXILIAR DE SEGURIDAD",
+    "IdArea": 22,
+    "NombreArea": "TRAFICO",
+    "IdEmpresa": 3,
+    "NombreEmpresa": "GEZPORT"
+  },
+  {
+    "IdCargo": 132,
+    "Nombre": "ANALISTA DE IMPUESTOS",
+    "IdArea": 23,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 133,
+    "Nombre": "ANALISTA II DE FACTURACION",
+    "IdArea": 23,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 134,
+    "Nombre": "ASESOR COMERCIAL",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 135,
+    "Nombre": "COORDINADOR HSEQ",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 136,
+    "Nombre": "DIRECTOR COMERCIAL",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 137,
+    "Nombre": "DIRECTOR DE FLOTA",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 138,
+    "Nombre": "DIRECTOR DE MANTENIMIENTO",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 139,
+    "Nombre": "DIRECTOR DE TRAFICO Y SEGURIDAD",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 140,
+    "Nombre": "DIRECTOR SISTEMAS",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 141,
+    "Nombre": "DIRECTORA CONTABILIDAD",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 142,
+    "Nombre": "DIRECTORA FINANCIERA",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 143,
+    "Nombre": "DIRECTORA LOGISTICA Y SERVICIO AL CLIENTE",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 144,
+    "Nombre": "GERENTE ADMINISTRATIVA Y DE PROCESOS",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 145,
+    "Nombre": "GERENTE COMERCIAL",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 146,
+    "Nombre": "GERENTE GENERAL",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 147,
+    "Nombre": "GERENTE OPERACIONAL",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 148,
+    "Nombre": "JEFE COMPRAS",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 149,
+    "Nombre": "JEFE DE OPERACIONES",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 150,
+    "Nombre": "MENSAJERO",
+    "IdArea": 24,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 151,
+    "Nombre": "AUXILIAR DE PATIO",
+    "IdArea": 25,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 152,
+    "Nombre": "COORDINADOR LLANTAS",
+    "IdArea": 25,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 153,
+    "Nombre": "COORINADORA DE ALMACEN",
+    "IdArea": 25,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 154,
+    "Nombre": "JEFE DE PATIO",
+    "IdArea": 25,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 155,
+    "Nombre": "MENSAJERO",
+    "IdArea": 25,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 156,
+    "Nombre": "ANALISTA II LOGISTICO",
+    "IdArea": 26,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 157,
+    "Nombre": "ASISTENTE DE OPERACIONES REGIONALES",
+    "IdArea": 26,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 186,
+    "Nombre": "Conductor Tractocamion",
+    "IdArea": 26,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 187,
+    "Nombre": "Conductor Urbanero",
+    "IdArea": 26,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 188,
+    "Nombre": "Tecnico de Mantenimiento",
+    "IdArea": 26,
+    "NombreArea": "OPERACIONES",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 158,
+    "Nombre": "ASISTENTE CICLOS",
+    "IdArea": 27,
+    "NombreArea": "PROCESO",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 159,
+    "Nombre": "ANALISTA II DE SERVICIO AL CLIENTE",
+    "IdArea": 28,
+    "NombreArea": "SERVICIO AL CLIENTE",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 160,
+    "Nombre": "COORDINADORA REGIONAL",
+    "IdArea": 28,
+    "NombreArea": "SERVICIO AL CLIENTE",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 161,
+    "Nombre": "ANALISTA II DE TRAFICO Y SEGURIDAD",
+    "IdArea": 29,
+    "NombreArea": "TRAFICO",
+    "IdEmpresa": 4,
+    "NombreEmpresa": "ICEBERG"
+  },
+  {
+    "IdCargo": 162,
+    "Nombre": "ANALISTA CONTABLE",
+    "IdArea": 30,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 5,
+    "NombreEmpresa": "WESTLAKE"
+  },
+  {
+    "IdCargo": 163,
+    "Nombre": "ASISTENTE CONTABLE",
+    "IdArea": 30,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 5,
+    "NombreEmpresa": "WESTLAKE"
+  },
+  {
+    "IdCargo": 164,
+    "Nombre": "AUXILIAR DE FACTURACION",
+    "IdArea": 30,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 5,
+    "NombreEmpresa": "WESTLAKE"
+  },
+  {
+    "IdCargo": 165,
+    "Nombre": "AUXILIAR FACTURACION",
+    "IdArea": 30,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 5,
+    "NombreEmpresa": "WESTLAKE"
+  },
+  {
+    "IdCargo": 166,
+    "Nombre": "LIDER CONTABLE",
+    "IdArea": 30,
+    "NombreArea": "CONTABILIDAD",
+    "IdEmpresa": 5,
+    "NombreEmpresa": "WESTLAKE"
+  },
+  {
+    "IdCargo": 167,
+    "Nombre": "COMMUNITY MANAGER",
+    "IdArea": 31,
+    "NombreArea": "COORDINADORA DE MARKETING DIGITAL",
+    "IdEmpresa": 5,
+    "NombreEmpresa": "WESTLAKE"
+  },
+  {
+    "IdCargo": 168,
+    "Nombre": "ASESOR COMERCIAL",
+    "IdArea": 32,
+    "NombreArea": "DIRECTOR COMERCIAL",
+    "IdEmpresa": 5,
+    "NombreEmpresa": "WESTLAKE"
+  },
+  {
+    "IdCargo": 169,
+    "Nombre": "AUXILIAR COMERCIAL JUNIOR",
+    "IdArea": 32,
+    "NombreArea": "DIRECTOR COMERCIAL",
+    "IdEmpresa": 5,
+    "NombreEmpresa": "WESTLAKE"
+  },
+  {
+    "IdCargo": 170,
+    "Nombre": "TECNICO DE LLANTAS",
+    "IdArea": 32,
+    "NombreArea": "DIRECTOR COMERCIAL",
+    "IdEmpresa": 5,
+    "NombreEmpresa": "WESTLAKE"
+  },
+  {
+    "IdCargo": 171,
+    "Nombre": "COORDINADOR CONTABLE",
+    "IdArea": 33,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 5,
+    "NombreEmpresa": "WESTLAKE"
+  },
+  {
+    "IdCargo": 172,
+    "Nombre": "COORDINADORA DE MARKETING DIGITAL",
+    "IdArea": 33,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 5,
+    "NombreEmpresa": "WESTLAKE"
+  },
+  {
+    "IdCargo": 173,
+    "Nombre": "DIRECTOR COMERCIAL",
+    "IdArea": 33,
+    "NombreArea": "GERENCIA",
+    "IdEmpresa": 5,
+    "NombreEmpresa": "WESTLAKE"
+  },
+  {
+    "IdCargo": 174,
+    "Nombre": "CONDUCTOR DE PATIO",
+    "IdArea": 34,
+    "NombreArea": "MANTENIMIENTO",
+    "IdEmpresa": 5,
+    "NombreEmpresa": "WESTLAKE"
+  },
+  {
+    "IdCargo": 175,
+    "Nombre": "ANALISTA ADMINISTRATIVO",
+    "IdArea": 35,
+    "NombreArea": "DIRECTORA DE OPERACIONES",
+    "IdEmpresa": 6,
+    "NombreEmpresa": "WLC"
+  },
+  {
+    "IdCargo": 176,
+    "Nombre": "AUXILIAR DE BODEGA",
+    "IdArea": 35,
+    "NombreArea": "DIRECTORA DE OPERACIONES",
+    "IdEmpresa": 6,
+    "NombreEmpresa": "WLC"
+  },
+  {
+    "IdCargo": 177,
+    "Nombre": "COORDINADOR DE OPERACIONES",
+    "IdArea": 35,
+    "NombreArea": "DIRECTORA DE OPERACIONES",
+    "IdEmpresa": 6,
+    "NombreEmpresa": "WLC"
+  },
+  {
+    "IdCargo": 178,
+    "Nombre": "DIRECTORA DE OPERACIONES",
+    "IdArea": 35,
+    "NombreArea": "DIRECTORA DE OPERACIONES",
+    "IdEmpresa": 6,
+    "NombreEmpresa": "WLC"
+  },
+  {
+    "IdCargo": 179,
+    "Nombre": "MONTACARGUISTA",
+    "IdArea": 35,
+    "NombreArea": "DIRECTORA DE OPERACIONES",
+    "IdEmpresa": 6,
+    "NombreEmpresa": "WLC"
+  }
+]
