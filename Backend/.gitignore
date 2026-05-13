@@ -13,3 +13,8 @@ pyvenv.cfg
 Lib/site-packages/
 
 Scripts/
+
+App/
+*.docx
+*.doc
+*.rar

@@ -47,45 +47,43 @@ def escape_sql_text(text):
     return text.replace("'", "''")
 
 
-def conjunction_dbs(data):
+def conjunction_dbs(data, processed_ids=None):
     if not os.path.exists(dir_resultados):
         print(f"Error: No se encontró el archivo de referencia {dir_resultados}")
         return
 
+    if processed_ids is None:
+        processed_ids = set()
+
     with open(dir_resultados, 'r', encoding='utf-8-sig') as f:
         resultados = json.load(f)
     
-    # 1. Obtener set de cargos únicos en la DB (por nombre)
-    DB_jobs_set = set()
-    for r in resultados:
-        cargo_name = str(r.get('Nombre', '')).strip().upper()
-        if cargo_name:
-            DB_jobs_set.add(cargo_name)
+    # 1. Obtener set de cargos únicos en la DB (por nombre) para AntiJob
+    DB_jobs_set = {str(r.get('Nombre', '')).strip().upper() for r in resultados if r.get('Nombre')}
     
     AntiJob = {}
     Errors = {}
     MissingDocs = {}
     
     # 2. Identificar Nuevos Cargos (en docx pero no en DB por NOMBRE)
-    docx_jobs_found = set() # Todos los cargos encontrados en DOCX
     for enterprise_key, enterprise_data in data.items():
         if isinstance(enterprise_data, dict):
             for job_docx, functions in enterprise_data.items():
-                job_upper = job_docx.strip().upper()
-                docx_jobs_found.add(job_upper)
-                
+                job_upper = normalize_text(job_docx).upper()
                 if job_upper not in DB_jobs_set:
                     AntiJob.setdefault(enterprise_key, {}).setdefault("Nuevos Cargos", {})[job_docx] = functions
         else:
             Errors[enterprise_key] = enterprise_data
 
-    # 3. Identificar Cargos Faltantes (en DB pero no en docx por NOMBRE)
+    # 3. Identificar Cargos Faltantes (Los que NO están en processed_ids)
     for r in resultados:
-        cargo_db = str(r.get('Nombre', '')).strip().upper()
-        emp_db = str(r.get('NombreEmpresa', 'DESCONOCIDA')).strip().upper()
-        area_db = str(r.get('NombreArea', 'SIN AREA')).strip().upper()
+        id_emp = r.get('IdEmpresa')
+        id_cargo = r.get('IdCargo')
         
-        if cargo_db not in docx_jobs_found:
+        if (id_emp, id_cargo) not in processed_ids:
+            cargo_db = str(r.get('Nombre', '')).strip().upper()
+            emp_db = str(r.get('NombreEmpresa', 'DESCONOCIDA')).strip().upper()
+            area_db = str(r.get('NombreArea', 'SIN AREA')).strip().upper()
             MissingDocs.setdefault(emp_db, {}).setdefault(area_db, []).append(cargo_db)
 
 
@@ -119,6 +117,12 @@ def conjunction_dbs(data):
     with open(dir_missing_txt, 'w', encoding='utf-8') as f:
         f.write("\n".join(missing_summary_lines))
         
+    with open(dir_missing_docs, 'w', encoding='utf-8') as f:
+        json.dump(MissingDocs, f, ensure_ascii=False, indent=2)
+        
+    with open(dir_antijob, 'w', encoding='utf-8') as f:
+        json.dump(AntiJob, f, ensure_ascii=False, indent=2)
+
     if AntiJob:
         print("\n--- DETALLE DE CARGOS NUEVOS (En archivo DOCX pero no en DB) ---")
         for emp, content in AntiJob.items():
@@ -246,11 +250,18 @@ def generate_sql_script(data):
             # print(f"Aviso: No se encontró ID para el cargo {job_key} en la DB")
             pass
 
+    processed_ids = set()
+    for job_key, functions_map in global_docx_data.items():
+        if job_key in lookup:
+            for record in lookup[job_key]:
+                processed_ids.add((record['id_empresa'], record['id_cargo']))
+
     with open(dir_sql, 'w', encoding='utf-8') as f:
         f.write("\n".join(sql_statements))
     
     print(f"Script SQL generado: {dir_sql}")
     print(f"Se generaron {count_items} inserciones para {count_cargos} cargos.")
+    return processed_ids
 
 
 def corregir_duplicados_orden():
@@ -494,9 +505,15 @@ def main():
     print(f"Procesados {len(list_docxs)} archivos.")
     with open(dir_json, 'w', encoding='utf-8') as f:
         json.dump(list_docxs, f, ensure_ascii=False, indent=2)
-    conjunction_dbs(list_docxs)
+    
+    # 1. Generar SQL primero para saber qué cargos se procesaron
+    processed_ids = generate_sql_script(list_docxs)
+    
+    # 2. Generar reportes basados en lo que realmente se insertó
+    conjunction_dbs(list_docxs, processed_ids)
+    
+    # 3. Otras validaciones y correcciones
     validate_no_overlap()
-    generate_sql_script(list_docxs)
     corregir_duplicados_orden()
     generar_reporte_items()
     
